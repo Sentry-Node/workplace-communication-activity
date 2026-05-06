@@ -24,6 +24,19 @@ BEGIN
         PRINT "Developer B: That panel is a CYELGA module. We should plan to retire it soon."
 
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
+
+        PRINT "OPERATIONAL DEFINITIONS"
+
+        PRINT "PING: To test connectivity or send a quick notification to a team/person."
+        PRINT DOWN: A state where a system or service is completely inaccessible."
+        PRINT BUG: An unintended flaw or error causing a system malfunction."
+        PRINT SANDBOX: An isolated testing environment for safe experimentation."
+        PRINT PROD: The live "Production" environment used by end-users."
+        PRINT HOTFIX: A critical, urgent update applied to fix a major issue quickly."
+        PRINT PATCH: A specific set of code changes to resolve bugs or update features."
+        PRINT BACKDOOR: A hidden entry point bypassing security; a vulnerability."
+        PRINT LEGACY: Outdated software or modules slated for eventual retirement."
+        
     END FUNCTION
 
     CALL MorningSyncMeeting()
