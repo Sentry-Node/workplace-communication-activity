@@ -1,5 +1,3 @@
-Content Added to README:
-
 🛡️ Threat Glossary
 
 Phishing: A type of social engineering attack where an attacker sends a fraudulent message designed to trick a person into revealing sensitive information or deploying malicious software.
