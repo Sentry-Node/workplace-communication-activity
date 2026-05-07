@@ -1,30 +1,7 @@
-# workplace-communication-activity
-#📘 Pseudo Code: Programming Firm Communication Using Operational Terms
+Content Added to README:
 
-# identify and fix the original operational term for each scrambled word
+🛡️ Threat Glossary
 
-BEGIN
-    FUNCTION MorningSyncMeeting()
-        
-        PRINT "Team Lead: Good morning team, let's review current system status."
+Phishing: A type of social engineering attack where an attacker sends a fraudulent message designed to trick a person into revealing sensitive information or deploying malicious software.
 
-        PRINT "SysAdmin: ALERT! The email server is NWDO since 2:00 AM."
-        PRINT "Developer A: Understood. Let me GNPI the infra team for support."
-
-        PRINT "QA Tester: There’s a GUB affecting the checkout button on mobile."
-        PRINT "Developer B: I saw that too. Let's reproduce it in the OXNSADB environment first."
-
-        PRINT "Team Lead: Confirm this is not affecting DORP?"
-        PRINT "QA Tester: Correct, DORP is stable. Only OXNSADB shows the issue."
-
-        PRINT "Developer A: I’ve written a XTFIOTH and pushed it to the staging branch."
-        PRINT "SysAdmin: Great. We’ll apply the THCAP to the live server after approval."
-
-        PRINT "Security Analyst: Also, I found traces of a RKOABODC in the old admin panel."
-        PRINT "Developer B: That panel is a CYELGA module. We should plan to retire it soon."
-
-        PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
-    END FUNCTION
-
-    CALL MorningSyncMeeting()
-END
+Security Protocol: If you suspect a message is a phishing attempt, do not click any links or download attachments. Immediately use the "Report Phish" button or forward the headers to the SOC (Security Operations Center).
